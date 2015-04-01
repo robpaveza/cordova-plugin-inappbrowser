@@ -368,6 +368,7 @@ The function is passed an `InAppBrowserEvent` object.
 - Amazon Fire OS
 - Android
 - iOS
+- Windows
 
 ### Quick Example
 
